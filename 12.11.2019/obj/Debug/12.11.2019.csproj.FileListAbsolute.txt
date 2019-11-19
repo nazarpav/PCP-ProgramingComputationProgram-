@@ -1,0 +1,36 @@
+E:\CouseWinForms\12.11.2019\12.11.2019\bin\Debug\12.11.2019.exe.config
+E:\CouseWinForms\12.11.2019\12.11.2019\bin\Debug\12.11.2019.exe
+E:\CouseWinForms\12.11.2019\12.11.2019\bin\Debug\12.11.2019.pdb
+E:\CouseWinForms\12.11.2019\12.11.2019\obj\Debug\12.11.2019.csprojAssemblyReference.cache
+E:\CouseWinForms\12.11.2019\12.11.2019\obj\Debug\_12._11._2019.Form1.resources
+E:\CouseWinForms\12.11.2019\12.11.2019\obj\Debug\_12._11._2019.Properties.Resources.resources
+E:\CouseWinForms\12.11.2019\12.11.2019\obj\Debug\12.11.2019.csproj.GenerateResource.cache
+E:\CouseWinForms\12.11.2019\12.11.2019\obj\Debug\12.11.2019.exe
+E:\CouseWinForms\12.11.2019\12.11.2019\obj\Debug\12.11.2019.pdb
+E:\CouseWinForms\12.11.2019\12.11.2019\bin\Debug\SFML.Audio.dll
+E:\CouseWinForms\12.11.2019\12.11.2019\bin\Debug\SFML.Graphics.dll
+E:\CouseWinForms\12.11.2019\12.11.2019\bin\Debug\SFML.System.dll
+E:\CouseWinForms\12.11.2019\12.11.2019\bin\Debug\SFML.Window.dll
+E:\CouseWinForms\12.11.2019\12.11.2019\bin\Debug\SFML.Audio.xml
+E:\CouseWinForms\12.11.2019\12.11.2019\bin\Debug\SFML.Graphics.xml
+E:\CouseWinForms\12.11.2019\12.11.2019\bin\Debug\SFML.System.xml
+E:\CouseWinForms\12.11.2019\12.11.2019\bin\Debug\SFML.Window.xml
+E:\CouseWinForms\12.11.2019\12.11.2019\obj\Debug\12.11.2019.csproj.CopyComplete
+E:\CouseWinForms\12.11.2019 — копия\12.11.2019\bin\Debug\12.11.2019.exe.config
+E:\CouseWinForms\12.11.2019 — копия\12.11.2019\bin\Debug\12.11.2019.exe
+E:\CouseWinForms\12.11.2019 — копия\12.11.2019\bin\Debug\12.11.2019.pdb
+E:\CouseWinForms\12.11.2019 — копия\12.11.2019\bin\Debug\SFML.Audio.dll
+E:\CouseWinForms\12.11.2019 — копия\12.11.2019\bin\Debug\SFML.Graphics.dll
+E:\CouseWinForms\12.11.2019 — копия\12.11.2019\bin\Debug\SFML.System.dll
+E:\CouseWinForms\12.11.2019 — копия\12.11.2019\bin\Debug\SFML.Window.dll
+E:\CouseWinForms\12.11.2019 — копия\12.11.2019\bin\Debug\SFML.Audio.xml
+E:\CouseWinForms\12.11.2019 — копия\12.11.2019\bin\Debug\SFML.Graphics.xml
+E:\CouseWinForms\12.11.2019 — копия\12.11.2019\bin\Debug\SFML.System.xml
+E:\CouseWinForms\12.11.2019 — копия\12.11.2019\bin\Debug\SFML.Window.xml
+E:\CouseWinForms\12.11.2019 — копия\12.11.2019\obj\Debug\12.11.2019.csprojAssemblyReference.cache
+E:\CouseWinForms\12.11.2019 — копия\12.11.2019\obj\Debug\_12._11._2019.Form1.resources
+E:\CouseWinForms\12.11.2019 — копия\12.11.2019\obj\Debug\_12._11._2019.Properties.Resources.resources
+E:\CouseWinForms\12.11.2019 — копия\12.11.2019\obj\Debug\12.11.2019.csproj.GenerateResource.cache
+E:\CouseWinForms\12.11.2019 — копия\12.11.2019\obj\Debug\12.11.2019.csproj.CopyComplete
+E:\CouseWinForms\12.11.2019 — копия\12.11.2019\obj\Debug\12.11.2019.exe
+E:\CouseWinForms\12.11.2019 — копия\12.11.2019\obj\Debug\12.11.2019.pdb
