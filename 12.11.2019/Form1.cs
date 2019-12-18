@@ -40,8 +40,6 @@ namespace _12._11._2019
             lamps = new List<Lamp>();
 
             MouseClick += MouseClick_;
-
-
             LoadMyElement();
         }
         protected override CreateParams CreateParams
@@ -55,12 +53,26 @@ namespace _12._11._2019
         }
         private void MouseClick_(object sender, MouseEventArgs e)
         {
+            UpdateAll(e);
+            UpdateLamp();
+            UpdateScreen();
+            for (int i = 0; i < lamps.Count; i++)
+            {
+                lamps[i].IsEnabled = _outByte[i];
+            }
+            OutOfRange.IsEnabled = OutOfRange_;
+            UpdateLamp();
+            UpdateScreen();
+            Invalidate();
+        }
+        private void UpdateAll(MouseEventArgs e)
+        {
             if (lever.rect.Contains(e.Location))
             {
                 lever.Press();
                 IsSubstract = lever.IsEnabled;
             }
-                for (int i = 0; i < InSwitch1.Count; i++)
+            for (int i = 0; i < InSwitch1.Count; i++)
             {
                 if (InSwitch1[i].rect.Contains(e.Location))
                 {
@@ -95,9 +107,6 @@ namespace _12._11._2019
                 lamps[i].IsEnabled = _outByte[i];
             }
             OutOfRange.IsEnabled = OutOfRange_;
-            UpdateLamp();
-            UpdateScreen();
-            Invalidate();
         }
         private void UpdateLamp()
         {
@@ -153,14 +162,6 @@ namespace _12._11._2019
             screen4CounterInstructions = new Screen(5,new Rectangle(new Point(48* (_8BitQuantityNum+5),100),new Size(36,48)));
         }
 
-        private void pictureBox1_Click(object sender, EventArgs e)
-        {
 
-        }
-
-        private void label5_Click(object sender, EventArgs e)
-        {
-
-        }
     }
 }

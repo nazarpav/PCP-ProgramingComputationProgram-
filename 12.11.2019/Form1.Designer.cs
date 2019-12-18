@@ -48,7 +48,6 @@
             this.pictureBox1.Size = new System.Drawing.Size(258, 66);
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
-            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
             // label1
             // 
@@ -89,7 +88,6 @@
             this.label5.Size = new System.Drawing.Size(194, 25);
             this.label5.TabIndex = 2;
             this.label5.Text = "Quantity operation ";
-            this.label5.Click += new System.EventHandler(this.label5_Click);
             // 
             // label4
             // 
@@ -100,7 +98,6 @@
             this.label4.Size = new System.Drawing.Size(46, 25);
             this.label4.TabIndex = 2;
             this.label4.Text = "Out";
-            this.label4.Click += new System.EventHandler(this.label5_Click);
             // 
             // label6
             // 
@@ -111,7 +108,6 @@
             this.label6.Size = new System.Drawing.Size(29, 25);
             this.label6.TabIndex = 2;
             this.label6.Text = "In";
-            this.label6.Click += new System.EventHandler(this.label5_Click);
             // 
             // label7
             // 
@@ -122,7 +118,6 @@
             this.label7.Size = new System.Drawing.Size(29, 25);
             this.label7.TabIndex = 2;
             this.label7.Text = "In";
-            this.label7.Click += new System.EventHandler(this.label5_Click);
             // 
             // Form1
             // 
